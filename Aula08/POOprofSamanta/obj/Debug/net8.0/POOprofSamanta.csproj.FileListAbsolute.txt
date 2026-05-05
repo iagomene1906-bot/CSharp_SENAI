@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\bin\Debug\net8.0\POOprofSamanta.exe
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\bin\Debug\net8.0\POOprofSamanta.deps.json
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\bin\Debug\net8.0\POOprofSamanta.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\bin\Debug\net8.0\POOprofSamanta.dll
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\bin\Debug\net8.0\POOprofSamanta.pdb
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\obj\Debug\net8.0\POOprofSamanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\obj\Debug\net8.0\POOprofSamanta.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\obj\Debug\net8.0\POOprofSamanta.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\obj\Debug\net8.0\POOprofSamanta.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\obj\Debug\net8.0\POOprofSamanta.sourcelink.json
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\obj\Debug\net8.0\POOprofSamanta.dll
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\obj\Debug\net8.0\refint\POOprofSamanta.dll
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\obj\Debug\net8.0\POOprofSamanta.pdb
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\obj\Debug\net8.0\POOprofSamanta.genruntimeconfig.cache
+C:\Users\fic\Desktop\CSharp-SENAI\Aula08\POOprofSamanta\obj\Debug\net8.0\ref\POOprofSamanta.dll

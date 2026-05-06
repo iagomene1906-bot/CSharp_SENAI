@@ -7,6 +7,6 @@ namespace ProjetoLanchonete
 {
     public interface IDesconto
     {
-        public double aplicarDesconto();
+        public decimal aplicarDesconto();
     }
 }

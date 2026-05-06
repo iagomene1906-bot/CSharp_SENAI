@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\bin\Debug\net8.0\PraticandoprofGuilherme.exe
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\bin\Debug\net8.0\PraticandoprofGuilherme.deps.json
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\bin\Debug\net8.0\PraticandoprofGuilherme.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\bin\Debug\net8.0\PraticandoprofGuilherme.dll
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\bin\Debug\net8.0\PraticandoprofGuilherme.pdb
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\obj\Debug\net8.0\PraticandoprofGuilherme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\obj\Debug\net8.0\PraticandoprofGuilherme.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\obj\Debug\net8.0\PraticandoprofGuilherme.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\obj\Debug\net8.0\PraticandoprofGuilherme.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\obj\Debug\net8.0\PraticandoprofGuilherme.sourcelink.json
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\obj\Debug\net8.0\PraticandoprofGuilherme.dll
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\obj\Debug\net8.0\refint\PraticandoprofGuilherme.dll
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\obj\Debug\net8.0\PraticandoprofGuilherme.pdb
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\obj\Debug\net8.0\PraticandoprofGuilherme.genruntimeconfig.cache
+C:\Users\fic\Desktop\CSharp-SENAI\Aula09\PraticandoprofGuilherme\obj\Debug\net8.0\ref\PraticandoprofGuilherme.dll

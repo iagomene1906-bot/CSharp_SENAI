@@ -57,3 +57,6 @@ Introdução a Programação Orientada a Objeto - Base e Herança.
 
 #### Aula - 09
 Pilares da POO (Abstração, Encapsulamento, Herança e Polimorfismo).
+
+#### Aula - 10
+Praticando conteúdo POO e Projeto Lanchonete.

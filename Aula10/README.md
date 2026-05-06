@@ -1,5 +1,5 @@
-# Aula -10
-Projeto para prática de POO.
+# Aula - 10
+Praticando conteúdo POO e Projeto Lanchonete.
 Projeto: Sistema de Pedidos de Lanchonete.
 
 ---

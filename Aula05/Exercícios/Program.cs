@@ -286,5 +286,96 @@ class Program
         // } 
 
         // EXERCÍCIO 2
+        // Console.Clear();
+        
+        // Console.WriteLine("======= TRIÂNGULO =======");
+
+        // Console.Write("Insira um primeiro valor: ");
+        // int v1 = int.Parse(Console.ReadLine());
+        // Console.Write("Insira um segundo valor: ");
+        // int v2 = int.Parse(Console.ReadLine());
+        // Console.Write("Insira um terceiro valor: ");
+        // int v3 = int.Parse(Console.ReadLine());
+
+        // Console.WriteLine("\nCALCULANDO...");
+        
+        // if(v1 <= 0 || v2 <= 0 || v3 <= 0)
+        // {
+        //     Console.WriteLine($"\nERRO: Algum dos valores inseridos é menor ou igual a 0.");
+            
+        // }
+        // else
+        // {
+        //     Console.WriteLine("\nOs valores inseridos podem formar um triângulo.");
+        // }
+
+        // EXERCÍCIO 3
+        // Console.Clear();
+
+        // Console.WriteLine("======= CALCULADORA SIMPLES =======");
+
+        // Console.Write("Insira um primeiro valor: ");
+        // int v1 = int.Parse(Console.ReadLine());
+        // Console.Write("Insira um segundo valor: ");
+        // int v2 = int.Parse(Console.ReadLine());
+        
+        // Console.Write("\nÓtimo! Agora insira a operação desejada (+, -, *, /): ");
+        // char op = char.Parse(Console.ReadLine());
+
+        // if(op == '+')
+        // {
+        //     Console.WriteLine($"\nOperação escolhida: {op}\nResultado: {v1 + v2}");
+        // }
+        // else if(op == '-')
+        // {
+        //     Console.WriteLine($"\nOperação escolhida: {op}\nResultado: {v1 - v2}");
+        // }
+        // else if(op == '*')
+        // {
+        //     Console.WriteLine($"\nOperação escolhida: {op}\nResultado: {v1 * v2}");
+        // }
+        // else if(op == '/')
+        // {
+        //     Console.WriteLine($"\nOperação escolhida: {op}\nResultado: {v1 / v2}");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("\nERRO: Operação inválida!");
+        // }
+
+        // EXERCÍCIO 4
+        // Console.Clear();
+        
+        // Console.WriteLine("======= LOGIN =======");
+
+        // string user = "admin";
+        // string senha = "senhaforte";
+
+        // Console.Write("\nInsira o usuário para login: ");
+        // string userD = Console.ReadLine();
+        
+        // if(userD == user)
+        // {
+        //     Console.Write("Insira a senha do usuário: ");
+        //     string senhaD = Console.ReadLine();
+
+        //     if(senhaD == senha)
+        //     {
+        //         Console.WriteLine("Acesso autorizado!");
+                
+        //     }
+        //     else
+        //     {
+        //         Console.WriteLine("\nAcesso negado! Senha inválida.");
+                
+        //     }
+        // }
+        // else
+        // {
+        //     Console.WriteLine("\nUsuário não existente.");
+        // }
+
+        // EXERCÍCIO 5
+        
     }
 }

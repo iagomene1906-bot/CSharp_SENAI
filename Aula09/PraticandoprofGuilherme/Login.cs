@@ -7,8 +7,16 @@ namespace PraticandoprofGuilherme
 {
     public class Login
     {
-        private string admin = "123456";
+        private string senhaLogin = "123456";
 
-        public bool valido = false;
+        public bool validacaoLogin = false;
+
+        public bool autenticar(string senhaDigitada)
+        {
+            if(senhaDigitada == senhaLogin)
+            {
+                
+            }
+        }
     }
 }

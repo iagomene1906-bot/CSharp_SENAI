@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.AssemblyInfo.cs
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.sourcelink.json
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\bin\Debug\net8.0\SistemaDeCursos.exe
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\bin\Debug\net8.0\SistemaDeCursos.deps.json
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\bin\Debug\net8.0\SistemaDeCursos.runtimeconfig.json
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\bin\Debug\net8.0\SistemaDeCursos.dll
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\bin\Debug\net8.0\SistemaDeCursos.pdb
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.dll
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\obj\Debug\net8.0\refint\SistemaDeCursos.dll
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.pdb
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\obj\Debug\net8.0\SistemaDeCursos.genruntimeconfig.cache
+C:\Users\fic\Desktop\CSharp-SENAI\Aula11\SistemaDeCursos\obj\Debug\net8.0\ref\SistemaDeCursos.dll

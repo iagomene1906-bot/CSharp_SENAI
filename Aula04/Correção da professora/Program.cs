@@ -4,8 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Console.WriteLine("Hello, World!");
-
         //! Resolução do nível fácil - atividade 1
         // Console.WriteLine("Digite um número: ");
         // int numero = int.Parse(Console.ReadLine());

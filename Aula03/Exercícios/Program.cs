@@ -4,11 +4,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Console.WriteLine("Hello, World!");
-
         // NÍVEL FÁCIL
 
         // 1 EXERCÍCIO
+        // Console.Clear();
+        // Console.WriteLine($"===== DOBRO =====");
         // Console.Write("Digite um número: ");
         // int num = int.Parse(Console.ReadLine());
         // Console.WriteLine("O dobro do número digitado é: " + (num * 2));
